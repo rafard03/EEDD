@@ -1,0 +1,3 @@
+C:/Users/Rafa/Downloads/Practica_4 falta terminar premium/Practica_4 falta terminar premium/Practica_4/cmake-build-debug/CMakeFiles/Practica_4.dir
+C:/Users/Rafa/Downloads/Practica_4 falta terminar premium/Practica_4 falta terminar premium/Practica_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Rafa/Downloads/Practica_4 falta terminar premium/Practica_4 falta terminar premium/Practica_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
